@@ -117,5 +117,4 @@ Student focused on Machine Learning, Data Structures, and AI development.
 
 This project is purely educational and built from scratch to reinforce core ML understanding without using high-level ML libraries.
 
- **top 1% ML portfolio project structure**
-```
+
