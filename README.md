@@ -8,7 +8,7 @@ This repository contains implementations of fundamental Machine Learning algorit
 
 This project focuses on implementing core ML algorithms manually to understand their internal working, mathematical intuition, and step-by-step computation.
 
-It is designed for learning, academic practice, and portfolio building.
+It is designed for learning, academic practice and portfolio building.
 
 
 ## 📁 Project Structure
